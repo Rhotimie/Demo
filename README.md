@@ -15,3 +15,5 @@ Now editing on readme branch
 updated locally
 
 updates made on master on Github before rebase
+
+__MODIFYING__ README FILE TO ALLOW FOR PULL REQUEST ON LOCAL MASTER
